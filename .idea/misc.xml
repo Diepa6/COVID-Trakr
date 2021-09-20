@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adiep/OneDrive/Documents/cscscs/csmoviproj/app/src/main/res/layout/activity_main.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/cscscs/csmoviproj/app/src/main/res/layout/app_bar_main.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/cscscs/csmoviproj/app/src/main/res/layout/content_main.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/cscscs/csmoviproj/app/src/main/res/layout/fragment_gallery.xml" value="0.4" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/cscscs/csmoviproj/app/src/main/res/layout/fragment_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/cscscs/csmoviproj/app/src/main/res/layout/fragment_slideshow.xml" value="0.121875" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/cscscs/csmoviproj/app/src/main/res/menu/activity_main_drawer.xml" value="0.536" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/csmoviproj/app/src/main/res/layout/activity_main.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/csmoviproj/app/src/main/res/layout/app_bar_main.xml" value="0.290625" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/csmoviproj/app/src/main/res/layout/content_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/csmoviproj/app/src/main/res/layout/fragment_gallery.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/csmoviproj/app/src/main/res/layout/fragment_home.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/csmoviproj/app/src/main/res/layout/fragment_maps.xml" value="0.1515625" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/csmoviproj/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/adiep/OneDrive/Documents/csmoviproj/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/layout/activity_main.xml" value="0.290625" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/layout/app_bar_main.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/layout/bar_home.xml" value="0.28125" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/layout/content_main.xml" value="0.290625" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/layout/fragment_gallery.xml" value="0.1484375" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/layout/fragment_home.xml" value="0.1484375" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/layout/fragment_maps.xml" value="0.290625" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/layout/fragment_slideshow.xml" value="0.1484375" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/menu/activity_main_drawer.xml" value="0.290625" />
+        <entry key="..\:/Users/adiep/csmoviproj/app/src/main/res/menu/main.xml" value="0.290625" />
+        <entry key="..\:/cscscs/csmoviproj/app/src/main/res/layout/activity_main.xml" value="0.14076690211907164" />
+        <entry key="..\:/cscscs/csmoviproj/app/src/main/res/layout/content_main.xml" value="0.19610507246376813" />
+        <entry key="..\:/cscscs/csmoviproj/app/src/main/res/layout/fragment_gallery.xml" value="0.3775933609958506" />
+        <entry key="..\:/cscscs/csmoviproj/app/src/main/res/layout/fragment_maps.xml" value="0.290625" />
+        <entry key="..\:/cscscs/csmoviproj/app/src/main/res/layout/fragment_slideshow.xml" value="0.290625" />
+        <entry key="..\:/cscscs/csmoviproj/app/src/main/res/layout/nav_header_main.xml" value="0.4466666666666667" />
+        <entry key="..\:/cscscs/csmoviproj/app/src/main/res/menu/activity_main_drawer.xml" value="0.2849846782431052" />
+        <entry key="..\:/cscscs/csmoviproj/app/src/main/res/menu/main.xml" value="0.2849846782431052" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
